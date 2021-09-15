@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marlo Rodrigues
+## Olá! Eu sou o Marlo Rodrigues
 
 - 🔭 Hoje trabalho com desenvolvimento
 - 🌱 Estudando NextJS - NodeJS 
