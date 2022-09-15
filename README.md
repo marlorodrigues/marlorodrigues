@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marlo Rodrigues
 
 - 🔭 Hoje trabalho com desenvolvimento
-- 🌱 Estudando NodeJS, GoLang, Jest, CI/DI e Jenkins 
+- 🌱 Estudando NodeJS, Jest, Unreal Engine (AI e Game Design)
 - 😄 Pronouns: ele/dele
 
 <div>
