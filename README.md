@@ -26,3 +26,7 @@
 </div>
 
 ![Snake animation](https://github.com/marlorodrigues/marlorodrigues/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://www.abuseipdb.com/user/96948" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/96948.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
