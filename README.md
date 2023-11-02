@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Marlo Rodrigues
 
-- 🔭 Hoje trabalho com desenvolvimento
-- 🌱 Estudando NodeJS, Jest, Unreal Engine (AI e Game Design)
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho com desenvolvimento de backend
+- 🌱 Estudando NodeJS, Golang, Python, Unreal Engine, AI, Cascadeur
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlorodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
